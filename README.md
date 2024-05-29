@@ -4,7 +4,11 @@
 
 ____
 
-# <center> ![logo]("images/yolo.jpg?raw=true")
+
+
+<p align="center">
+  <img src="https://github.com/DilmurodGoyupov/Deploy-Face-Detection-YOLOv8-ONNXRuntime/blob/master/images/yolo.jpeg?raw=true" />
+</p>
 
 
 ## <center> YOLOv8 ning nano modeli yordamida Face detection amalga oshiramiz
@@ -25,8 +29,11 @@ ___
 model.export(format="onnx")
 ```
 
-# <center> ![logo]("images/onnx.png?raw=true")
-___
+<p align="center">
+  <img src="https://github.com/DilmurodGoyupov/Deploy-Face-Detection-YOLOv8-ONNXRuntime/blob/master/images/onnx.png?raw=true" />
+</p>
+
+
 > 5-qadam. ONNXRuntime-ni o'rnatib olamiz.
 ```python
 !pip install onnxruntime
