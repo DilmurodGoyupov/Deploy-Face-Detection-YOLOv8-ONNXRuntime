@@ -42,7 +42,7 @@ ___
 > 6-qadam. `ONNX.ipynb` dagi kodlarni ishlatib ko'rib ONNXRuntime-ni qanday ishlatishni o'rganib olamiz. *Agarda sizda `ONNX.ipynb` ishlatib ko'rish imkoni bo'lmasa, quyidagi [link](https://drive.google.com/file/d/1xixqLwdSyw9DgLYwMp8WCMn1ZuYQCxIa/view?usp=sharing) orqali biz o'qitgan modelni saqlab oling*
 
 ___
-> 7-qadam. `deploy.py` ni ishga tushiramiz.
+> 7-qadam. `main.py` ni ishga tushiramiz.
 
 + 1-usul. Modelni kamera orqali ishga turshiramiz
 
