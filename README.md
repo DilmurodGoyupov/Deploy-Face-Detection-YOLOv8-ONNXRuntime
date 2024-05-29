@@ -4,7 +4,7 @@
 
 ____
 
-# <center> ![logo]("https://drive.google.com/file/d/1CiUl6JYQUmDvOLVlZD0_0E6IDmu-ZWgI/view?usp=sharing")
+# <center> ![logo]("https://raw.githubusercontent.com/ultralytics/assets/main/yolov3/banner-yolov3.png")
 
 ## <center> YOLOv8 ning nano modeli yordamida Face detection amalga oshiramiz
 
