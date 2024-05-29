@@ -4,7 +4,7 @@
 
 ____
 
-# <center> ![logo]("images/61ae8d7-6831-7f5c-8b52-01d30ba74ffc_og-ultralytics")
+# <center> ![logo]("images/61ae8d7-6831-7f5c-8b52-01d30ba74ffc_og-ultralytics.jpg?raw=true")
 
 
 ## <center> YOLOv8 ning nano modeli yordamida Face detection amalga oshiramiz
@@ -25,7 +25,7 @@ ___
 model.export(format="onnx")
 ```
 
-# <center> ![logo]("images/ONNX_logo_main.png")
+# <center> ![logo]("images/ONNX_logo_main.png?raw=true")
 ___
 > 5-qadam. ONNXRuntime-ni o'rnatib olamiz.
 ```python
